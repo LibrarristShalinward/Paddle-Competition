@@ -1,0 +1,5 @@
+由于论文所采用的COCO数据集过大，故不放在GitHub上。
+下载地址：http://images.cocodataset.org/zips/test2017.zip
+下载完成后请将文件夹test2017路径写在下一行：
+D:/test2017/
+（注：虽然没有同步数据集，但标注将同步至GitHub上）
